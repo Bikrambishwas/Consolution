@@ -51,7 +51,7 @@
     color: white;
 }
 .header button:hover{
-    background-color: white;
+    background-color: pink;
 }
 .header2 a:hover{
     color: #1b9ce3 ;
@@ -130,7 +130,7 @@
     color: white;
 }
 .hero1 button:hover{
-    background-color: white;
+    background-color: pink;
 }
 .hero1 a:hover{
     color: #1b9ce3 ;
